@@ -34,7 +34,7 @@
                 { "name": "DEPLOY_MODE", "value": "ecs_multi_container" },
                 { "name": "ID_WEB_SERVICE_URL", "value": "http://id-web-service:6000" },
                 { "name": "BOLD_ETL_BLAZOR_SERVICE_URL", "value": "http://bold-etl-service:6009/framework/blazor.server.js" },
-                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region>", // Example: us-east-1
+                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region>" }, // Example: us-east-1
                 { "name": "ID_UMS_SERVICE_URL", "value": "http://id-ums-service:6002/ums" }
             ],
             "mountPoints": [],
