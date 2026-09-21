@@ -40,7 +40,7 @@
                 { "name": "BOLD_ETL_BLAZOR_SERVICE_URL", "value": "http://bold-etl-service:6009/framework/blazor.server.js" },
                 { "name": "BOLD_SERVICES_DB_USER", "value": "<provide the DB user name>" },
                 { "name": "BOLD_SERVICES_DB_NAME", "value": "<provide the DB name>" },
-                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region>", // Example: us-east-1
+                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region>" }, // Example: us-east-1
                 { "name": "ID_UMS_SERVICE_URL", "value": "http://id-ums-service:6002/ums" }
             ],
             "mountPoints": [],
