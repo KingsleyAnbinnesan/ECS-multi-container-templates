@@ -30,7 +30,7 @@
                 { "name": "BI_WEB_SERVICE_URL", "value": "http://bi-web-service:6004/bi" },
                 { "name": "BOLD_AI_SERVICE_URL", "value": "http://bold-ai-service:6010/aiservice" },
                 { "name": "BOLD_SERVICES_HOSTING_ENVIRONMENT", "value": "docker" },
-                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region>", // Example: us-east-1
+                { "name": "BOLD_SERVICES_AWS_REGION", "value": "<aws-region> }", // Example: us-east-1
                 { "name": "BI_API_SERVICE_URL", "value": "http://bi-api-service:6005/bi/api" },
                 { "name": "BOLD_SERVICES_AMAZON_BUCKET_NAME", "value": "<provide the s3 bucket name>" },
                 { "name": "ID_UMS_SERVICE_URL", "value": "http://id-ums-service:6002/ums" }
