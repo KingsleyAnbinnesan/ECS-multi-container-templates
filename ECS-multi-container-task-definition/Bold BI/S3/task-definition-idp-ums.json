@@ -18,6 +18,7 @@
             "essential": true,
             "environment": [
                 { "name": "BOLD_SERVICES_DB_TYPE", "value": "<provide the DB type as postgresql/MYSQL/MSSQL>" },
+                { "name": "BOLD_SERVICES_PV_USED", "value": "false" },
                 { "name": "BI_DESIGNER_HELPER_SERVICE_URL", "value": "http://bi-dataservice-service:6007/bi/designer/helper" },
                 { "name": "BOLD_SERVICES_DB_PORT", "value": "<provide the DB port number>" },
                 { "name": "BOLD_SERVICES_USER_EMAIL", "value": "<provide the user email ID>" },
